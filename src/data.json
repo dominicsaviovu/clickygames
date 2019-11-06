@@ -1,62 +1,62 @@
 [
     {
       "id": 1,
-      "image": "/assets/images/akira.jpg",
+      "image": "assets/images/akira.jpg",
       "clicked": false
     },
     {
       "id": 2,
-      "image": "/assets/images/aldini.png",
+      "image": "assets/images/aldini.png",
       "clicked": false
     },
     {
       "id": 3,
-      "image": "/assets/images/alice.png",
+      "image": "assets/images/alice.png",
       "clicked": false
     },
     {
       "id": 4,
-      "image": "/assets/images/erina.jpeg",
+      "image": "assets/images/erina.jpeg",
       "clicked": false
     },
     {
       "id": 5,
-      "image": "/assets/images/kuga.png",
+      "image": "assets/images/kuga.png",
       "clicked": false
     },
     {
       "id": 6,
-      "image": "/assets/images/megumi.jpg",
+      "image": "assets/images/megumi.jpg",
       "clicked": false
     },
     {
       "id": 7,
-      "image": "/assets/images/rindo.png",
+      "image": "assets/images/rindo.png",
       "clicked": false
     },
     {
       "id": 8,
-      "image": "/assets/images/ryo.jpeg",
+      "image": "assets/images/ryo.jpeg",
       "clicked": false
     },
     {
       "id": 9,
-      "image": "/assets/images/saito.jpg",
+      "image": "assets/images/saito.jpg",
       "clicked": false
     },
     {
       "id": 10,
-      "image": "/assets/images/satoshi.jpg",
+      "image": "assets/images/satoshi.jpg",
       "clicked": false
     },
     {
       "id": 11,
-      "image": "/assets/images/soma.png",
+      "image": "assets/images/soma.png",
       "clicked": false
     },
     {
       "id": 12,
-      "image": "/assets/images/subaru.png",
+      "image": "assets/images/subaru.png",
       "clicked": false
     }
   ]
